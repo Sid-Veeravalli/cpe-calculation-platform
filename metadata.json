@@ -1,0 +1,5 @@
+{
+  "name": "CPE Calculator from Storyboard",
+  "description": "An application to calculate Continuing Professional Education (CPE) credits from storyboard files (Excel, CSV, PPTX). Users can upload a storyboard, review and edit content, select the source for calculation (On-Screen Text or Transcript), add audio file durations, and export a final summary. This application requires the following packages to be installed: xlsx, papaparse, jszip, jspdf, jspdf-autotable. You can install them by running: npm install xlsx papaparse jszip jspdf jspdf-autotable @types/papaparse @types/jszip",
+  "requestFramePermissions": []
+}
