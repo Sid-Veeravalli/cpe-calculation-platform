@@ -20,8 +20,10 @@ const DISCARD_REASONS = [
     'Table of contents / Glossary / Appendix',
     'Duplicate content',
     'Media-only / Image-only slide',
-    'Review Question',
-    'Disclaimer Slide',
+    'Review question',
+    'Disclaimer slide',
+    'Course navigation',
+    'Learning objectives',
     'Other',
 ];
 
